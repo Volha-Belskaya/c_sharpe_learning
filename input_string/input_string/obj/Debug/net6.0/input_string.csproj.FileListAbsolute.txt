@@ -1,0 +1,15 @@
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\bin\Debug\net6.0\input_string.exe
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\bin\Debug\net6.0\input_string.deps.json
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\bin\Debug\net6.0\input_string.runtimeconfig.json
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\bin\Debug\net6.0\input_string.dll
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\bin\Debug\net6.0\input_string.pdb
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\obj\Debug\net6.0\input_string.csproj.AssemblyReference.cache
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\obj\Debug\net6.0\input_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\obj\Debug\net6.0\input_string.AssemblyInfoInputs.cache
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\obj\Debug\net6.0\input_string.AssemblyInfo.cs
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\obj\Debug\net6.0\input_string.csproj.CoreCompileInputs.cache
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\obj\Debug\net6.0\input_string.dll
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\obj\Debug\net6.0\refint\input_string.dll
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\obj\Debug\net6.0\input_string.pdb
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\obj\Debug\net6.0\input_string.genruntimeconfig.cache
+C:\Users\гыук\work\c_sharpe_learning\input_string\input_string\obj\Debug\net6.0\ref\input_string.dll
