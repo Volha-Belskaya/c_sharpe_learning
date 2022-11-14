@@ -1,0 +1,15 @@
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\bin\Debug\net6.0\input_double.exe
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\bin\Debug\net6.0\input_double.deps.json
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\bin\Debug\net6.0\input_double.runtimeconfig.json
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\bin\Debug\net6.0\input_double.dll
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\bin\Debug\net6.0\input_double.pdb
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\obj\Debug\net6.0\input_double.csproj.AssemblyReference.cache
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\obj\Debug\net6.0\input_double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\obj\Debug\net6.0\input_double.AssemblyInfoInputs.cache
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\obj\Debug\net6.0\input_double.AssemblyInfo.cs
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\obj\Debug\net6.0\input_double.csproj.CoreCompileInputs.cache
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\obj\Debug\net6.0\input_double.dll
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\obj\Debug\net6.0\refint\input_double.dll
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\obj\Debug\net6.0\input_double.pdb
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\obj\Debug\net6.0\input_double.genruntimeconfig.cache
+C:\Users\гыук\work\c_sharpe_learning\input_double\input_double\obj\Debug\net6.0\ref\input_double.dll
