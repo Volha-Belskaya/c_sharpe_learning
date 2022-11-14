@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-
-        Console.WriteLine("input number");
-        int num = Console.ReadLine();
-     
-
+﻿Console.WriteLine("input number");
+int number = Convert.ToInt32(Console.ReadLine());
+Console.Read();
+Console.WriteLine("output  " + number);
