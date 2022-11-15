@@ -1,0 +1,15 @@
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\obj\Debug\net6.0\quadratic_equation.csproj.AssemblyReference.cache
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\obj\Debug\net6.0\quadratic_equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\obj\Debug\net6.0\quadratic_equation.AssemblyInfoInputs.cache
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\obj\Debug\net6.0\quadratic_equation.AssemblyInfo.cs
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\obj\Debug\net6.0\quadratic_equation.csproj.CoreCompileInputs.cache
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\bin\Debug\net6.0\quadratic_equation.exe
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\bin\Debug\net6.0\quadratic_equation.deps.json
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\bin\Debug\net6.0\quadratic_equation.runtimeconfig.json
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\bin\Debug\net6.0\quadratic_equation.dll
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\bin\Debug\net6.0\quadratic_equation.pdb
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\obj\Debug\net6.0\quadratic_equation.dll
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\obj\Debug\net6.0\refint\quadratic_equation.dll
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\obj\Debug\net6.0\quadratic_equation.pdb
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\obj\Debug\net6.0\quadratic_equation.genruntimeconfig.cache
+C:\Users\гыук\work\c_sharpe_learning\quadratic_equation\quadratic_equation\obj\Debug\net6.0\ref\quadratic_equation.dll
