@@ -1,0 +1,15 @@
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\obj\Debug\net6.0\sequence.csproj.AssemblyReference.cache
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\obj\Debug\net6.0\sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\obj\Debug\net6.0\sequence.AssemblyInfoInputs.cache
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\obj\Debug\net6.0\sequence.AssemblyInfo.cs
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\obj\Debug\net6.0\sequence.csproj.CoreCompileInputs.cache
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\bin\Debug\net6.0\sequence.exe
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\bin\Debug\net6.0\sequence.deps.json
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\bin\Debug\net6.0\sequence.runtimeconfig.json
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\bin\Debug\net6.0\sequence.dll
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\bin\Debug\net6.0\sequence.pdb
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\obj\Debug\net6.0\sequence.dll
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\obj\Debug\net6.0\refint\sequence.dll
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\obj\Debug\net6.0\sequence.pdb
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\obj\Debug\net6.0\sequence.genruntimeconfig.cache
+C:\Users\гыук\work\c_sharpe_learning\sequence\sequence\obj\Debug\net6.0\ref\sequence.dll
